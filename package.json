@@ -1,5 +1,5 @@
 {
-  "name": "@frontend/monorepo",
+  "name": "@devhiteshk/monorepo",
   "private": false,
   "workspaces": [
     "packages/*"
