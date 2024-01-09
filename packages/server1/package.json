@@ -17,6 +17,7 @@
     "test": "node ./__tests__/server1.test.js"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "server1": "file:../server1"
   }
