@@ -1,10 +1,8 @@
-"use strict";
-
-module.exports = frontend2;
+import React from "react";
 
 function frontend2() {
   return (
-    <>
+    <div>
       <div class="mb-3">
         <label for="" class="form-label">
           Email
@@ -21,6 +19,8 @@ function frontend2() {
           Help text
         </small>
       </div>
-    </>
+    </div>
   );
 }
+
+module.exports = frontend2;
