@@ -18,7 +18,7 @@ function frontend1() {
           placeholder="name"
         />
         <small id="helpId" class="form-text text-muted">
-          Help text
+          Enter you good Name
         </small>
       </div>
     </>
