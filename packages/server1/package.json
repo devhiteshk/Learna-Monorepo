@@ -1,0 +1,23 @@
+{
+  "name": "server1",
+  "version": "0.0.0",
+  "description": "server 1",
+  "author": "devhiteshk <hitesh.k.83080@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/server1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/server1.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "server1": "file:../server1"
+  }
+}
