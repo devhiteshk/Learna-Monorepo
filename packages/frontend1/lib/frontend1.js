@@ -7,7 +7,7 @@ function frontend1() {
     <>
       <div class="mb-3">
         <label for="" class="form-label">
-          Enter your Name
+          Enter your Name here
         </label>
         <input
           type="text"
