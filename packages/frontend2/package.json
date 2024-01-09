@@ -1,0 +1,26 @@
+{
+  "name": "frontend2",
+  "version": "0.0.2",
+  "description": "> TODO: description",
+  "author": "devhiteshk <hitesh.k.83080@gmail.com>",
+  "homepage": "https://github.com/devhiteshk/Learna-Monorepo#readme",
+  "license": "ISC",
+  "main": "lib/frontend2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhiteshk/Learna-Monorepo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/frontend2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/devhiteshk/Learna-Monorepo/issues"
+  }
+}

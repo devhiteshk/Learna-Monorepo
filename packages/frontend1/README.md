@@ -1,11 +1,11 @@
-# `server2`
+# `frontend1`
 
 > TODO: description
 
 ## Usage
 
 ```
-const server2 = require('server2');
+const frontend1 = require('frontend1');
 
 // TODO: DEMONSTRATE API
 ```
