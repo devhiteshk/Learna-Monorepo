@@ -1,5 +1,5 @@
 {
-  "name": "frontend1",
+  "name": "@frontend1/name",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "devhiteshk <hitesh.k.83080@gmail.com>",
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/devhiteshk/Learna-Monorepo/issues"
   },
-  "gitHead": "5a6699ed453a0131bc03486687e5bd1bc06f24fa"
+  "gitHead": "0b36a5b9a031dead931dcb93256af6b2b1587258"
 }
