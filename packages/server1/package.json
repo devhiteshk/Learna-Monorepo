@@ -1,5 +1,5 @@
 {
-  "name": "server1",
+  "name": "@monorepo/server1",
   "version": "0.0.0",
   "description": "server 1",
   "author": "devhiteshk <hitesh.k.83080@gmail.com>",
@@ -14,7 +14,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/server1.test.js"
+    "test": "node ./__tests__/server1.test.js",
+    "dev": "node index.js"
   },
   "dependencies": {
     "dotenv": "^16.3.1",

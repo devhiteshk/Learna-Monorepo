@@ -1,5 +1,5 @@
 {
-  "name": "server2",
+  "name": "@monorepo/server2",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "devhiteshk <hitesh.k.83080@gmail.com>",
@@ -14,7 +14,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/server2.test.js"
+    "test": "node ./__tests__/server2.test.js",
+    "dev": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2",

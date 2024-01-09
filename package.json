@@ -5,8 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "start:server1": "node packages/server1/index.js",
-    "start:server2": "node packages/server2/index.js"
+    "start:server1": "yarn workspaces @monorepo/server1 dev",
+    "start:server2": "yarn workspaces @monorepo/server2 dev"
   },
   "devDependencies": {
     "lerna": "^8.0.2"
